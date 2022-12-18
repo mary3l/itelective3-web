@@ -1,1 +1,7 @@
-# LOCAL GOVERNMENT UNIT - Caraga ![alt text](https://www.google.com/url?sa=i&url=https%3A%2F%2Fdavaooriental.gov.ph%2F&psig=AOvVaw14I8rzNH3IlUUkWuCDSNpo&ust=1671467152872000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCOjspMHKg_wCFQAAAAAdAAAAABAD "caragaLogo")
+# LOCAL GOVERNMENT UNIT - Caraga [Logo]
+## Frameworks used: 
+[Wordpress]
+[WooCommerce]
+# Order System
+This system is used to track or to manage information from the customer to the service provider. It keeps the personal information from customers like `Name` , `Address` , `Contact Number` , and `Email Address` for faster transactions and good order management system that will help the service provider in keeping track with their inventory. 
+# Sub-systems 
