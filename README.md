@@ -1,7 +1,8 @@
 # LOCAL GOVERNMENT UNIT - Caraga ![caraga](https://user-images.githubusercontent.com/87875385/208310954-20174a57-efce-4a4b-8b51-??0746699a88a5.png)
  
 ### Frameworks used: 
-[Wordpress]
+Wordpress ![wordpress](https://user-images.githubusercontent.com/87875385/208311069-a1eefd65-4865-4154-a24a-8a33ae6a15e1.png)
+
 [WooCommerce]
 ## Order System
 This system is used to track or to manage information from the customer to the service provider. It keeps the personal information from customers like `Name` , `Address` , `Contact Number` , and `Email Address` for faster transactions and good order management system that will help the service provider in keeping track with their inventory. 
