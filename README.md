@@ -20,5 +20,9 @@ This system is used to track or to manage information from the customer to the s
 * Check Inventory
 * Check Credit
 * Check Order Item Status
+
 5. Credit System
+* Check Credit
+
 6. Order History
+* Check Order Item Status
