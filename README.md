@@ -1,4 +1,5 @@
-# LOCAL GOVERNMENT UNIT - Caraga [Logo]
+# LOCAL GOVERNMENT UNIT - Caraga ![caraga](https://user-images.githubusercontent.com/87875385/208310954-20174a57-efce-4a4b-8b51-??0746699a88a5.png)
+ 
 ### Frameworks used: 
 [Wordpress]
 [WooCommerce]
