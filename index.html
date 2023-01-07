@@ -1,49 +1,104 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <link rel="stylesheet" href="styles.css">
-    <title>Document</title>
-  </head>
-  <body>
-    <div class="card-container">
-      <div class="photo"></div>
+	<head>
+		<meta charset="UTF-8" />
+		<meta
+			http-equiv="X-UA-Compatible"
+			content="IE=edge" />
+		<meta
+			name="viewport"
+			content="width=device-width, initial-scale=1.0" />
 
-      <div class="content-container">
-        <div class="name">
-          <h1>Mariel Mabano</h1>
-        </div>
-        <div class="bio">
-          <ul>
-            <li>22.11.2001</li>
-            <li>Toril, Davao City</li>
-          </ul>
-        </div>
-        <div class="text">
-          <h2>
-            Hi there, I am Mariel, a Philippine based Web Developer. I love
-            building intuitive user experience on the web, creating deep neural
-            networks and solving all kinds of problems in general. If you want
-            to learn more about me and my work you are just right here :)
-          </h2>
-        </div>
-        <div class="icons">
-            <ul>
-                <li>Github</li>
-                <li>Twitter</li>
-                <li>CodePen</li>
-                <li>StackOverflow</li>
-                <li>Email</li>
-            </ul>
-        </div>
-        <div class="footer">
-            <h2>
-                MY TEAMSPEAK
-            </h2>
-        </div>
-      </div>
-    </div>
-  </body>
+		<title>Mabano_AppDev-Cards</title>
+		<script src="https://cdn.tailwindcss.com"></script>
+	</head>
+	<body>
+		<!-- card-container -->
+		<div class="w-[530px] h-[480px] bg-[#010022] mx-auto m-[100px]">
+			<div class="py-[90px]">
+				<div
+					class="w-[440px] h-[350px] rounded-[18px] bg-white mx-auto flex flex-col text-center items-center pt-[40px]">
+					<!-- photo -->
+					<img
+						class="rounded-full mt-[-90px] drop-shadow-[0px_5px_6px_rgba(0,0,0,1)]"
+						src="./pics/Me.png"
+						alt="Mariel's Picture"
+						width="110"
+						height="110" />
+					<!--name-->
+					<div class="pt-[5px]">
+						<h1 class="text-3xl font-bold">Mariel G. Mabano</h1>
+					</div>
+					<!-- bio -->
+					<div
+						class="flex flex-row space-x-[10px] pt-[5px] text-sm text-slate-400 font-medium">
+						<div class="flex gap-[2px]">
+							<img
+								class="w-[15px]"
+								src="./pics/cards-heart.svg"
+								alt="" />06.09.2002
+						</div>
+						<div class="flex gap-[2px]">
+							<img
+								class="w-[18px]"
+								src="./pics/round-home.svg
+								alt="" />Toril, Davao City
+						</div>
+					</div>
+					<!-- text -->
+					<div class="py-[15px] px-[35px] text-slate-700">
+						<p class="text-sm font-medium">
+							Hi there, I am Mariel, a Philippine based Web Developer. I love
+							building intuitive user experience on the web creating deep neural
+							networks and solving all kinds of problems in general. If you want
+							to learn more about me and my work you are just right here :)
+						</p>
+					</div>
+					<!-- icons -->
+					<div
+						class="flex flex-row place-content-center space-x-[15px] pb-[15px]">
+						<button>
+							<!-- Github -->
+							<img
+								class="w-[30px]"
+								src="./pics/circle_github_round icon.svg"
+								alt="" />
+						</button>
+						<button>
+							<!-- Twitter -->
+							<img
+								class="w-[30px]"
+								src="./pics/twitter-circle-filled.svg"
+								alt="" />
+						</button>
+						<button>
+							<!-- CodePen -->
+							<img
+								class="w-[30px]"
+								src="./pics/codepen-circle-filled.svg"
+								alt="" />
+						</button>
+						<button>
+							<!-- StackOverflow -->
+							<img
+								class="w-[30px]"
+								src="./pics/stackoverflow-outline.svg"
+								alt="" />
+						</button>
+						<button>
+							<!-- Email -->
+							<img
+								class="w-[30px]"
+								src="./pics/mail-outline-rounded.svg"
+								alt="" />
+						</button>
+					</div>
+					<!-- End Text -->
+					<div class="">
+						<h2 class="text-red-500 font-medium">MY TEAMSPEAK</h2>
+					</div>
+				</div>
+			</div>
+		</div>
+	</body>
 </html>
